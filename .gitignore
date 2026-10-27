@@ -1,0 +1,12 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Full training dataset (keep only a few samples in sample_images/)
+dataset/
