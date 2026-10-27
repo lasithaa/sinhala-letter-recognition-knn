@@ -4,7 +4,7 @@ A small machine learning project that recognises handwritten Sinhala letters.
 You draw a letter in a Tkinter window and a K-Nearest Neighbors (KNN) model
 predicts which letter it is.
 
-**Letters supported:** අ, ඇ, එ, උ (folders `a`, `ae`, `e`, `u`)
+**Letters supported:** අ, එ, ඉ, උ (folders `a`, `ae`, `e`, `u`)
 
 ## Demo
 
