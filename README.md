@@ -82,6 +82,6 @@ change `FONT_NAME` in the app cell if you use another system.
 
 ## Ideas for improvement
 
-- Add more letters (ආ, ඉ, ඊ, ...) and more images per letter
+- Add more letters (ආ,ඊ, ...) and more images per letter
 - Add images drawn in the app to the training data
 - Try a CNN
