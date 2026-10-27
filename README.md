@@ -8,7 +8,12 @@ predicts which letter it is.
 
 ## Demo
 
-![Sinhala letter predictor app](screenshots/app.png)
+<p align="center">
+  <img src="screenshots/Screenshot%202026-10-27%20at%2010.45.14.png" width="200" alt="App screenshot 1">
+  <img src="screenshots/Screenshot%202026-10-27%20at%2010.45.36.png" width="200" alt="App screenshot 2">
+  <img src="screenshots/Screenshot%202026-10-27%20at%2010.45.54.png" width="200" alt="App screenshot 3">
+  <img src="screenshots/Screenshot%202026-10-27%20at%2010.46.12.png" width="200" alt="App screenshot 4">
+</p>
 
 ## Results
 
